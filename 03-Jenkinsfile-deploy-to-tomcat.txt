@@ -19,3 +19,4 @@ onFailure: false, war: 'webapp/target/*.war'
  }
  }
  }
+}
